@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09d1934-ace2-42dd-885e-2b21dd9f4204" name="Default" comment="" />
+    <list default="true" id="b09d1934-ace2-42dd-885e-2b21dd9f4204" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/类/笔记" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,59 +14,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/code$function.coverage" NAME="function Coverage Results" MODIFIED="1542616955207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/code$03_.coverage" NAME="03.对象的使用 Coverage Results" MODIFIED="1542853139123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$08__.coverage" NAME="08.派生,子类中重用父类属性 Coverage Results" MODIFIED="1542888173340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$16_.coverage" NAME="16.自定义元类控制类的实例化行为 Coverage Results" MODIFIED="1542903586338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$01.coverage" NAME="01类定义 Coverage Results" MODIFIED="1542849960864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$15_.coverage" NAME="15.自定义元类控制类的创建 Coverage Results" MODIFIED="1542902608120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$06_.coverage" NAME="06.面向对象的可扩展性总结 Coverage Results" MODIFIED="1542867992471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$02_.coverage" NAME="02.类的使用 Coverage Results" MODIFIED="1542850150154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
     <SUITE FILE_PATH="coverage/code$.coverage" NAME="装饰器练习 Coverage Results" MODIFIED="1542633343716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/code$07_.coverage" NAME="07.继承与重用 Coverage Results" MODIFIED="1542871550165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$14_.coverage" NAME="14.元类介绍 Coverage Results" MODIFIED="1542900514040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$12_.coverage" NAME="12.反射 Coverage Results" MODIFIED="1542891151383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$13_.coverage" NAME="13.内置方法 Coverage Results" MODIFIED="1542892668602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$function.coverage" NAME="function Coverage Results" MODIFIED="1542616955207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/code$10_.coverage" NAME="10.抽象类 Coverage Results" MODIFIED="1542889870441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
+    <SUITE FILE_PATH="coverage/code$04_.coverage" NAME="04.属性查找与绑定方法 Coverage Results" MODIFIED="1542867986166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="函数返回值.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/函数返回值.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="09.组合.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/09.组合.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="名称空间问题.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/名称空间问题.py">
+      <file leaf-file-name="10.抽象类.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/10.抽象类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="231">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/function.py">
+      <file leaf-file-name="11.多态.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/11.多态.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="装饰器练习.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/装饰器练习.py">
+      <file leaf-file-name="12.反射.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/12.反射.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="305">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="笔记" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/类/笔记">
+      <file leaf-file-name="13.内置方法.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/13.内置方法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="168">
+              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_password" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/函数/user_password">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="14.元类介绍.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/14.元类介绍.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="45" selection-start-line="45" selection-end-line="50" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15.自定义元类控制类的创建.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类/15.自定义元类控制类的创建.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="7" selection-end-line="24" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16.自定义元类控制类的实例化行为.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/类/16.自定义元类控制类的实例化行为.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -74,6 +113,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -84,6 +126,23 @@
         <option value="$PROJECT_DIR$/函数/function.py" />
         <option value="$PROJECT_DIR$/函数/装饰器练习.py" />
         <option value="$PROJECT_DIR$/类/笔记" />
+        <option value="$PROJECT_DIR$/类/01类定义.py" />
+        <option value="$PROJECT_DIR$/类/02.类的使用.py" />
+        <option value="$PROJECT_DIR$/类/03.对象的使用.py" />
+        <option value="$PROJECT_DIR$/类/04.属性查找与绑定方法.py" />
+        <option value="$PROJECT_DIR$/类/05.一切皆为对象.py" />
+        <option value="$PROJECT_DIR$/类/06.面向对象的可扩展性总结.py" />
+        <option value="$PROJECT_DIR$/类/07.继承与重用.py" />
+        <option value="$PROJECT_DIR$/类/08.派生.py" />
+        <option value="$PROJECT_DIR$/类/08.派生,子类中重用父类属性.py" />
+        <option value="$PROJECT_DIR$/类/09.组合.py" />
+        <option value="$PROJECT_DIR$/类/10.抽象类.py" />
+        <option value="$PROJECT_DIR$/类/11.多态.py" />
+        <option value="$PROJECT_DIR$/类/12.反射.py" />
+        <option value="$PROJECT_DIR$/类/13.内置方法.py" />
+        <option value="$PROJECT_DIR$/类/14.元类介绍.py" />
+        <option value="$PROJECT_DIR$/类/15.自定义元类控制类的创建.py" />
+        <option value="$PROJECT_DIR$/类/16.自定义元类控制类的实例化行为.py" />
       </list>
     </option>
   </component>
@@ -96,18 +155,20 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-128" />
-    <option name="y" value="630" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="636" />
+    <option name="y" value="19" />
+    <option name="width" value="896" />
+    <option name="height" value="1106" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,14 +176,21 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="类" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/python/S14/S3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -147,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.装饰器练习">
-    <configuration name="参数问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16.自定义元类控制类的实例化行为">
+    <configuration name="12.反射" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +224,88 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/参数问题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/12.反射.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="13.内置方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/13.内置方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="14.元类介绍" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/14.元类介绍.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="15.自定义元类控制类的创建" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/15.自定义元类控制类的创建.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="16.自定义元类控制类的实例化行为" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/16.自定义元类控制类的实例化行为.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,39 +368,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.参数问题" />
-      <item itemvalue="Python.函数返回值" />
-      <item itemvalue="Python.名称空间问题" />
-      <item itemvalue="Python.function" />
-      <item itemvalue="Python.装饰器练习" />
+      <item itemvalue="Python.12.反射" />
+      <item itemvalue="Python.13.内置方法" />
+      <item itemvalue="Python.14.元类介绍" />
+      <item itemvalue="Python.15.自定义元类控制类的创建" />
+      <item itemvalue="Python.16.自定义元类控制类的实例化行为" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.装饰器练习" />
-        <item itemvalue="Python.function" />
-        <item itemvalue="Python.名称空间问题" />
-        <item itemvalue="Python.函数返回值" />
-        <item itemvalue="Python.参数问题" />
+        <item itemvalue="Python.16.自定义元类控制类的实例化行为" />
+        <item itemvalue="Python.15.自定义元类控制类的创建" />
+        <item itemvalue="Python.14.元类介绍" />
+        <item itemvalue="Python.13.内置方法" />
+        <item itemvalue="Python.12.反射" />
       </list>
     </recent_temporary>
   </component>
@@ -274,26 +399,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-85" y="420" width="1296" height="696" extended-state="1" />
+    <frame x="424" y="13" width="597" height="737" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20613287" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960998" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17109634" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38593483" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3532423" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -306,6 +431,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/函数/函数返回值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/名称空间问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/装饰器练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/user_password">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/函数/参数问题.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -315,39 +478,158 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/函数/函数返回值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="314">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/函数/名称空间问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="29">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/函数/function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="314">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/装饰器练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/函数/user_password">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/函数/装饰器练习.py">
+    <entry file="file://$PROJECT_DIR$/类/笔记">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="60">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/类/笔记">
+    <entry file="file://$PROJECT_DIR$/类/02.类的使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="-2">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="6" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/01类定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/03.对象的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="5" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/05.一切皆为对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/04.属性查找与绑定方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/06.面向对象的可扩展性总结.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-316724843/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="5246" column="8" selection-start-line="5246" selection-start-column="8" selection-end-line="5246" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/07.继承与重用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="51" column="56" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/08.派生,子类中重用父类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/09.组合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/10.抽象类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/11.多态.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/12.反射.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/13.内置方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/14.元类介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" selection-start-line="45" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/15.自定义元类控制类的创建.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="7" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类/16.自定义元类控制类的实例化行为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
